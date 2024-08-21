@@ -1,0 +1,23 @@
+.searchbar {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.searchbar .input{
+    min-width: 65%;
+    margin-right: .5rem;
+}
+.searchbar .dropdown{
+    min-width: 15%;
+}
+.searchbar .favBtn {
+    min-width: 10%;
+    margin-right: .5rem;
+    margin-left: .5rem;
+
+}
+.searchbar .basketBtn {
+    min-width: 8%;
+    margin-right: .5rem;
+}
